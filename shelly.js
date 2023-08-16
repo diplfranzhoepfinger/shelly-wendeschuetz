@@ -15,7 +15,7 @@ let timerRueckwaertsPauseTimer = null;
 let CONFIG = {
   pause:              3 * 1000, // 3  s   Pause
   vorwaerts:    15 * 60 * 1000, // 15 min Vorwärts
-  rueckwaerts:       10 * 1000, // 10 s   Rückwärts
+  rueckwaerts:        3 * 1000, // 3  s   Rückwärts
 };
 
 
