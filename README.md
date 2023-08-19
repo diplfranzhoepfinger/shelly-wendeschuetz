@@ -10,8 +10,3 @@ you need to:
 * Set Input (1) to Button
 * Upload the Script, start the Script.
 * Enable the Script, to be exexuted at each Start. 
-
-
-* first point
-* second point
-* third point
