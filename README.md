@@ -1,6 +1,8 @@
 # shelly-wendeschuetz
 Schelly Wendeschütz-schaltung
 
+https://kb.shelly.cloud/knowledge-base/shelly-plus-2pm
+
 
 you need to: 
 
